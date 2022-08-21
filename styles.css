@@ -618,13 +618,13 @@ img {
   transition: transform calc(var(--d) * 2) var(--e);
 }
 .card-inspiration:nth-child(1):before {
-  background-image: url(../img/Ramesh.jpg);
+  background-image: url(Ramesh.jpg);
 }
 .card-inspiration:nth-child(2):before {
-  background-image: url(../img/Kobe.jpg);
+  background-image: url(Kobe.jpg);
 }
 .card-inspiration:nth-child(3):before {
-  background-image: url(../img/MSD.jpg);
+  background-image: url(MSD.jpg);
 }
 
 
